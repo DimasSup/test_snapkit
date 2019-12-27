@@ -1,0 +1,31 @@
+{
+	"posts":[
+		{
+			"userName":"DimasSup",
+			"userAvatarLink":"http://avatars.design/wp-content/uploads/2016/09/avatar1b.jpg",
+			"contentLinks":[
+				"https://i.ytimg.com/vi/BHACKCNDMW8/maxresdefault.jpg"
+			],
+			"likesCount":10,
+			"commentsCount":2,
+			"friendsLikes":[
+				"Maxim"
+			],
+			"title":"What do @you think?\n#somewhere #nature",
+			"date":"2019-12-27T12:10:59.189+0000"
+		},
+		{
+			"userName":"DimasSup",
+			"userAvatarLink":"http://avatars.design/wp-content/uploads/2016/09/avatar1b.jpg",
+			"postLocation":"Kharkiv, Somewhere",
+			"contentLinks":[
+				"https://i.ytimg.com/vi/BHACKCNDMW8/maxresdefault.jpg"
+			],
+			"likesCount":10,
+			"commentsCount":2,
+			
+			"title":"What do @you think?\n#somewhere #nature",
+			"date":"2019-12-27T12:10:59.189+0000"
+		}
+	]
+}
